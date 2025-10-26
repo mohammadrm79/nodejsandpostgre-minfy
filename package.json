@@ -1,0 +1,12 @@
+{
+  "name": "nodejsandpostgre-minfy",
+  "version": "1.0.0",
+  "description": "two asets to download nodejs and postgresql minified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
